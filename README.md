@@ -5,7 +5,7 @@
 </h1>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subodh-here01&layout=compact&theme=radical)
-![Subodh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subodh-here01&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Subodh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subodh-here01&show_icons=true&hide_title=true&count_private=true&theme=gotham)
 
 ## 🏆 LeetCode Stats & Rating
 
@@ -14,11 +14,6 @@
 🔗 My LeetCode Profile: [https://leetcode.com/Subodh2106/](https://leetcode.com/Subodh2106/)
 
 [![LeetCode Contest Rating](https://img.shields.io/badge/LeetCode-1545%20Rating-blue?logo=leetcode)](https://leetcode.com/Subodh2106/)
-
-## 🌟 GitHub Streak Stats 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Subodh-here01&theme=dark&hide_border=true) 
-
 
 ## 📊 GitHub Contribution Calendar
 
@@ -36,6 +31,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)
 
+## 🚀 Featured Projects
+- 🚗 [Logistics Management System](https://github.com/Subodh-here01/Java_project) – Java Swing + MySQL project  
+- 🛡️ [Crime 360 App](https://github.com/Subodh-here01/crime360) – FIR management, Elasticsearch, dashboards  
 
 
 
